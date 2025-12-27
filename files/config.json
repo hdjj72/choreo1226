@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"62252678-bec9-4eee-9456-095aa59b2bd1",
+                        "id":"4bb86c51-2a0a-4b26-9259-cc29742249ad",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -222,3 +222,4 @@
         ]
     }
 }
+
